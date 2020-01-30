@@ -1,2 +1,2 @@
 # Embedded Test
-Decode the provided input_data
+Decodes the provided input_data
